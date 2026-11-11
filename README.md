@@ -4,6 +4,12 @@ By [栈外手记](https://www.toparrow.top/web/publisher/%E6%A0%88%E5%A4%96%E6%8
 
 Mark fitting adjustments, track alterations, and create clear PDF instructions for tailors.
 
+![screenshot](https://cos.toparrow.top/appscreenshot/20261111_d7f24a2948dd3072.jpg)
+
+![screenshot](https://cos.toparrow.top/appscreenshot/20261111_0d8845802acd0233.jpg)
+
+![screenshot](https://cos.toparrow.top/appscreenshot/20261111_1889925a5a14f291.jpg)
+
 **Tags:** Garment Alteration, Fitting Records, Tailor Orders
 
 ## Versions
