@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "top2095086226",
+  "name": "衣改 FitNote",
+  "name_en": "FitNote",
+  "description": "本地试衣标注与专业修改单，试衣修改，一图说清。",
+  "min_platform_version": null,
+  "runtime": {
+    "type": "node",
+    "min_version": "24.0",
+    "extensions": []
+  },
+  "database": {
+    "type": "sqlite"
+  },
+  "entry": {
+    "public_dir": "",
+    "main": "server/standalone.mjs",
+    "router": null,
+    "health": "/__health",
+    "index": null
+  },
+  "scripts": {
+    "install": null,
+    "migrate": null,
+    "uninstall": null
+  },
+  "data": {
+    "dirs": [],
+    "schema_version": null
+  },
+  "startup": {
+    "auto_start": false
+  },
+  "ui": {
+    "icon": null,
+    "open_mode": "app_window",
+    "window": null
+  },
+  "author": null,
+  "license": null,
+  "homepage": null
+}
